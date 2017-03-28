@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">Tawking</string>
+    <string name="edit_message">Tawking</string>
+
+    <string name="button1">button</string>
+    <string name="button2">button</string>
+    <string name="button3">button</string>
+    <string name="button4">button</string>
+    <string name="button5">button</string>
+    <string name="button6">button</string>
+    <string name="button7">button</string>
+    <string name="button8">button</string>
+    <string name="button9">button</string>
+    <string name="button10">button</string>
+    <string name="button11">button</string>
+    <string name="button12">button</string>
+    <string name="button13">button</string>
+    <string name="button14">button</string>
+    <string name="button15">button</string>
+    <string name="button16">button</string>
+    <string name="button17">button</string>
+    <string name="button18">button</string>
+    <string name="button19">button</string>
+    <string name="button20">button</string>
+    <string name="button_send">*Send</string>
+    <string name="button_clear">*Clear</string>
+
+</resources>
