@@ -43,21 +43,27 @@ android:orientation="vertical">
             android:layout_height="wrap_content"
             android:text="@string/button1"
             android:onClick="sendButton" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button2"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button3"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button4"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
     </LinearLayout>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -70,21 +76,27 @@ android:orientation="vertical">
             android:layout_height="wrap_content"
             android:text="@string/button5"
             android:onClick="sendButton" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button6"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button7"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button8"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
     </LinearLayout>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -97,21 +109,27 @@ android:orientation="vertical">
             android:layout_height="wrap_content"
             android:text="@string/button9"
             android:onClick="sendButton" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button10"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button11"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button12"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
     </LinearLayout>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -124,21 +142,27 @@ android:orientation="vertical">
             android:layout_height="wrap_content"
             android:text="@string/button13"
             android:onClick="sendButton" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button14"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button15"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button16"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
     </LinearLayout>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"
@@ -151,21 +175,27 @@ android:orientation="vertical">
             android:layout_height="wrap_content"
             android:text="@string/button17"
             android:onClick="sendButton" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button18"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button19"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
+
         <Button
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
+            android:onClick="sendButton"
             android:text="@string/button20"
-            android:onClick="sendButton" />
+            android:visibility="invisible" />
     </LinearLayout>
     <LinearLayout
         xmlns:android="http://schemas.android.com/apk/res/android"

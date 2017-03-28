@@ -2,26 +2,31 @@
     <string name="app_name">Tawking</string>
     <string name="edit_message">Tawking</string>
 
-    <string name="button1">button</string>
-    <string name="button2">button</string>
-    <string name="button3">button</string>
-    <string name="button4">button</string>
-    <string name="button5">button</string>
-    <string name="button6">button</string>
-    <string name="button7">button</string>
-    <string name="button8">button</string>
-    <string name="button9">button</string>
-    <string name="button10">button</string>
-    <string name="button11">button</string>
-    <string name="button12">button</string>
-    <string name="button13">button</string>
-    <string name="button14">button</string>
-    <string name="button15">button</string>
-    <string name="button16">button</string>
-    <string name="button17">button</string>
-    <string name="button18">button</string>
-    <string name="button19">button</string>
-    <string name="button20">button</string>
+    <string name="button1">MEDICAL</string>
+    <string name="button2"></string>
+    <string name="button3"></string>
+    <string name="button4"></string>
+
+    <string name="button5">COMFORT</string>
+    <string name="button6"></string>
+    <string name="button7"></string>
+    <string name="button8"></string>
+
+    <string name="button9">YES/NO</string>
+    <string name="button10"></string>
+    <string name="button11"></string>
+    <string name="button12"></string>
+
+    <string name="button13">TYPING</string>
+    <string name="button14"></string>
+    <string name="button15"></string>
+    <string name="button16"></string>
+
+    <string name="button17">SYSTEM CONTROL</string>
+    <string name="button18"></string>
+    <string name="button19"></string>
+    <string name="button20"></string>
+
     <string name="button_send">*Send</string>
     <string name="button_clear">*Clear</string>
 

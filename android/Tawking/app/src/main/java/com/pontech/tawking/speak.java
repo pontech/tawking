@@ -58,6 +58,10 @@ public class speak extends AppCompatActivity {
 
         if(activeButton != null) activeButton.setBackgroundColor(Color.LTGRAY);
         activeButton = (Button)(activeButtonBoard.getChildAt(activeButtonPosition));
+        if( activeButton.isShown() == false ) {
+            nextButton();
+            return;
+        }
         activeButton.setBackgroundColor(Color.YELLOW);
     }
 
